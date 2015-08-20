@@ -14,3 +14,6 @@ Parse open graph data from given file.
 ### parseFromUrl(url, callback)
 
 Parse open graph data from given url
+
+# TODO
++ Create command line tool.
